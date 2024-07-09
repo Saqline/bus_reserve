@@ -1,7 +1,7 @@
-package com.example.reservationudemy.services;
+package com.example.reservation.services;
 
-import com.example.reservationudemy.entities.AppUsers;
-import com.example.reservationudemy.repos.AppUserRepository;
+import com.example.reservation.entities.AppUsers;
+import com.example.reservation.repos.AppUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

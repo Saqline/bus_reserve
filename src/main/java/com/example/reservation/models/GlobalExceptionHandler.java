@@ -1,4 +1,4 @@
-package com.example.reservationudemy.models;
+package com.example.reservation.models;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

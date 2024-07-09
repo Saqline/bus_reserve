@@ -1,6 +1,6 @@
-package com.example.reservationudemy.security;
+package com.example.reservation.security;
 
-import com.example.reservationudemy.models.ReservationApiException;
+import com.example.reservation.models.ReservationApiException;
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;

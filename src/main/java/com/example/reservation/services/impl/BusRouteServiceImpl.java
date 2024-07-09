@@ -1,9 +1,9 @@
-package com.example.reservationudemy.services.impl;
+package com.example.reservation.services.impl;
 
-import com.example.reservationudemy.entities.BusRoute;
-import com.example.reservationudemy.models.ReservationApiException;
-import com.example.reservationudemy.repos.BusRouteRepository;
-import com.example.reservationudemy.services.BusRouteService;
+import com.example.reservation.entities.BusRoute;
+import com.example.reservation.models.ReservationApiException;
+import com.example.reservation.repos.BusRouteRepository;
+import com.example.reservation.services.BusRouteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

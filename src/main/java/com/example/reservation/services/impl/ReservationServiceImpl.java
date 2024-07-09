@@ -1,13 +1,13 @@
-package com.example.reservationudemy.services.impl;
+package com.example.reservation.services.impl;
 
-import com.example.reservationudemy.entities.BusSchedule;
-import com.example.reservationudemy.entities.Customer;
-import com.example.reservationudemy.entities.Reservation;
-import com.example.reservationudemy.models.ReservationApiException;
-import com.example.reservationudemy.repos.BusScheduleRepository;
-import com.example.reservationudemy.repos.CustomerRepository;
-import com.example.reservationudemy.repos.ReservationRepository;
-import com.example.reservationudemy.services.ReservationService;
+import com.example.reservation.entities.BusSchedule;
+import com.example.reservation.entities.Customer;
+import com.example.reservation.entities.Reservation;
+import com.example.reservation.models.ReservationApiException;
+import com.example.reservation.repos.BusScheduleRepository;
+import com.example.reservation.repos.CustomerRepository;
+import com.example.reservation.repos.ReservationRepository;
+import com.example.reservation.services.ReservationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

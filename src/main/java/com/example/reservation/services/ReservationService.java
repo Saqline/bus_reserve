@@ -1,6 +1,6 @@
-package com.example.reservationudemy.services;
+package com.example.reservation.services;
 
-import com.example.reservationudemy.entities.Reservation;
+import com.example.reservation.entities.Reservation;
 
 import java.util.List;
 

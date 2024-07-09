@@ -1,8 +1,8 @@
-package com.example.reservationudemy.controller;
+package com.example.reservation.controller;
 
-import com.example.reservationudemy.entities.AppUsers;
-import com.example.reservationudemy.models.AuthResponseModel;
-import com.example.reservationudemy.security.JwtTokenProvider;
+import com.example.reservation.entities.AppUsers;
+import com.example.reservation.models.AuthResponseModel;
+import com.example.reservation.security.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;

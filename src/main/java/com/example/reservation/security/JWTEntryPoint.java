@@ -1,4 +1,4 @@
-package com.example.reservationudemy.security;
+package com.example.reservation.security;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

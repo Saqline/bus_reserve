@@ -1,6 +1,6 @@
-package com.example.reservationudemy.security;
+package com.example.reservation.security;
 
-import com.example.reservationudemy.services.CustomUserDetailsService;
+import com.example.reservation.services.CustomUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

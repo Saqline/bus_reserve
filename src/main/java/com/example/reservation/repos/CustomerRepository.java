@@ -1,9 +1,8 @@
-package com.example.reservationudemy.repos;
+package com.example.reservation.repos;
 
-import com.example.reservationudemy.entities.Customer;
+import com.example.reservation.entities.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import javax.swing.text.html.Option;
 import java.util.Optional;
 
 public interface CustomerRepository extends JpaRepository<Customer, Long> {

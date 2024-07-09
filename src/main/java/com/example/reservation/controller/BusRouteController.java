@@ -1,8 +1,8 @@
-package com.example.reservationudemy.controller;
+package com.example.reservation.controller;
 
-import com.example.reservationudemy.entities.BusRoute;
-import com.example.reservationudemy.models.ResponseModel;
-import com.example.reservationudemy.services.BusRouteService;
+import com.example.reservation.entities.BusRoute;
+import com.example.reservation.models.ResponseModel;
+import com.example.reservation.services.BusRouteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

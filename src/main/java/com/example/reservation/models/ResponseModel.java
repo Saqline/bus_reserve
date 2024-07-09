@@ -1,4 +1,4 @@
-package com.example.reservationudemy.models;
+package com.example.reservation.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

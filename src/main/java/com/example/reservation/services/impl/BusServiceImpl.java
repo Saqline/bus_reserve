@@ -1,8 +1,8 @@
-package com.example.reservationudemy.services.impl;
+package com.example.reservation.services.impl;
 
-import com.example.reservationudemy.entities.Bus;
-import com.example.reservationudemy.repos.BusRepository;
-import com.example.reservationudemy.services.BusService;
+import com.example.reservation.entities.Bus;
+import com.example.reservation.repos.BusRepository;
+import com.example.reservation.services.BusService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

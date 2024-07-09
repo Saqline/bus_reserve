@@ -1,6 +1,6 @@
-package com.example.reservationudemy.repos;
+package com.example.reservation.repos;
 
-import com.example.reservationudemy.entities.AppUsers;
+import com.example.reservation.entities.AppUsers;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
